@@ -1,0 +1,44 @@
+
+header{
+    background-color: blue;
+}
+main{
+    background-color: bisque;
+}
+
+.header{
+
+    border-radius: 20px;
+}
+
+.btn-loguiarse{
+    border-color: black;
+    
+}
+
+.btn-acceder{
+    color: rgb(255, 0, 200);
+}
+
+li{
+    color: rgb(255, 0, 20);
+    
+  
+    font-size: 30px;
+}
+
+#algo{
+    color: white;
+}
+
+*  {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
+
